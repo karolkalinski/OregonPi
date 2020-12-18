@@ -28,16 +28,13 @@ Install wiringPi
  - sudo apt-get install git-core
  - sudo apt-get update
  - sudo apt-get upgrade
- - git clone git://git.drogon.net/wiringPi
- - cd wiringPi
- - git pull origin
- - ./build
+ - sudo apt-get install wiringpi
 
 Install OregonPi
 ----------------
 
  - cd ..
- - git clone git://github.com/1000io/OregonPi
+ - git clone https://github.com/karolkalinski/OregonPi
  - cd OregonPi
  - make
 
