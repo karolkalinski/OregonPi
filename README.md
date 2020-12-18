@@ -33,8 +33,7 @@ Install wiringPi
 Install OregonPi
 ----------------
 
- - cd ..
- - git clone https://github.com/karolkalinski/OregonPi
+- git clone https://github.com/karolkalinski/OregonPi
  - cd OregonPi
  - make
 
