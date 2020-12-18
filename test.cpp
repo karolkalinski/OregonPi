@@ -13,7 +13,7 @@ C code : test.cpp
 
 int main(int argc, char *argv[])
 {
-	int RXPIN = 1;
+	int RXPIN = 5;
 	int TXPIN = 0;
         int loggingok;   // Global var indicating logging on or off
         FILE *fp;        // Global var file handle
